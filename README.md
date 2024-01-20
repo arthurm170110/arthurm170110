@@ -2,7 +2,7 @@
 ### Olá Eu sou o Arthur Matheus 👋
 
 - 📙 Desenvolvedor back-end
-- 💻 Estudante de Engenharia da computação
+- 💻 Estudante de Engenharia da Computação
 - 📍 Universidade Federal de Sergipe
 
 &nbsp;
